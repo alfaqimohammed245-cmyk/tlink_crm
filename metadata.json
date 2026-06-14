@@ -1,0 +1,6 @@
+{
+  "name": "TLINK CRM",
+  "description": "TLINK Technical CRM with Cloud Servers administration, Branch Interconnection setups, and real-time support engineer chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
